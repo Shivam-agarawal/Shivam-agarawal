@@ -9,7 +9,7 @@ I love creating, learning, and exploring the ever-evolving tech world.
 
 ## 💻 Tech Skills  
 - **Programming Languages:** C, C++, Java, Python  
-- **Web Development:** HTML, CSS  
+- **Web Development:** HTML, CSS, JAVASCRIPT
 
 ---
 
